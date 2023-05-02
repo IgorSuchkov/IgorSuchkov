@@ -1,16 +1,26 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/CGdcqv9IQ257q3TOUk/giphy.gif" width="100"/>
+</div>
 
-<!--
-**IgorSuchkov/IgorSuchkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="mailto:i@suchkovik.ru">
+    <img src="https://img.shields.io/badge/-mail-69b5cc?style=for-the-badge&logo=mail" alt="Mail Badge"/>
+  </a>
+  <a href="https://t.me/suchkovigor">
+    <img src="https://img.shields.io/badge/-Telegram-69b5cc?style=for-the-badge&logo=Telegram" alt="Telegram Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=IgorSuchkov-github-username&style=flat-square&color=blue" alt=""/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me \ Обо мне
+Я  - аналитик данных. 
+Начал свой профессиональный путь в качестве инженера, но продолжил в качестве аналитика.   
+
+### Languages & Tools \ Языки и инструменты
+![python](https://img.shields.io/badge/-Python-69b5cc?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-PostgreSQL-69b5cc?style=for-the-badge&logo=postgreSQL)
+![JupiterNotebook](https://img.shields.io/badge/-Jupyter-69b5cc?style=for-the-badge&logo=jupyter)
+![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=tableau)
