@@ -26,4 +26,4 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=tableau)
 
 ### My projects
-[My projects](churn_analysis_and_customer_acquisition/)
+[My projects](my_projects/)
