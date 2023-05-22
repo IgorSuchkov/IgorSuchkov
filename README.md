@@ -26,4 +26,4 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=tableau)
 
 ### My projects
-[My projects](my_projects/)
+[My projects](https://github.com/IgorSuchkov/my_projects)
