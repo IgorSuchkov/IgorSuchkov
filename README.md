@@ -25,5 +25,5 @@
 ![JupiterNotebook](https://img.shields.io/badge/-Jupyter-69b5cc?style=for-the-badge&logo=jupyter)
 ![Tableau](https://img.shields.io/badge/-Tableau-69b5cc?style=for-the-badge&logo=tableau)
 
-### My projects
+### My projects \ Мои проекты
 [My projects](https://github.com/IgorSuchkov/my_projects)
